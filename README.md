@@ -8,5 +8,5 @@ A map predicting the probability that buildings will catch at least a fire in th
 - [MapPLUTO](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page)
 - [Housing Maintenance Code Violations](https://data.cityofnewyork.us/browse?q=Housing%20Maintenance%20Code%20Violations&sortBy=relevance)
 
-## Accuracy
-<img src ="plots/cm.png" width="45%"><img src ="plots/roc.png" width="45%">
+## Performance
+<img src ="plots/cm.png" width="45%"><img src ="plots/roc.png" width="40%">
