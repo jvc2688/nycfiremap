@@ -1,7 +1,7 @@
 # NYC Fire Map
 A map predicting the probability that buildings will catch at least a fire in the following year.
 
-*link: [nycfiremap.com](https://nycfiremap.com/)*
+*link: [nycfiremap.com](http://nycfiremap.com/)*
 
 ## Data source
 - [NYC Fire Incident Dispatch Data](https://data.cityofnewyork.us/Public-Safety/Fire-Incident-Dispatch-Data/8m42-w767)
