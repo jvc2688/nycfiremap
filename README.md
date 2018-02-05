@@ -3,6 +3,8 @@ A map predicting the probability that buildings will catch at least a fire in th
 
 *link: [nycfiremap.com](http://nycfiremap.com/)*
 
+<img src ="plots/map.png" width="45%">
+
 ## Data source
 - [NYC Fire Incident Dispatch Data](https://data.cityofnewyork.us/Public-Safety/Fire-Incident-Dispatch-Data/8m42-w767)
 - [MapPLUTO](https://www1.nyc.gov/site/planning/data-maps/open-data/dwn-pluto-mappluto.page)
